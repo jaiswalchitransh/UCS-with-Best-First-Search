@@ -1,3 +1,5 @@
+# UCS with Best-First Search
+
 from queue import PriorityQueue
 
 iteration = 1
