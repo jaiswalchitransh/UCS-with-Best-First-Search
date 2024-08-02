@@ -1,4 +1,4 @@
-# UCS-with-Best-First-Search
+# UCS with Best-First Search
 
 ## Table of Contents
 - [Project Overview](#project-overview)
